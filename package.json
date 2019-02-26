@@ -2,7 +2,7 @@
   "name": "react-photo-wall",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jomorro.github.io/react-photo-wall/",
+  "homepage": "https://jomorro.github.io/photo_wall_react/",
   "dependencies": {
     "create-react-app": "^2.1.1",
     "node": "^11.1.0",
